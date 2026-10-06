@@ -14,6 +14,21 @@
 
 > **Systems over demos. Evidence over hype. Context before autonomy. Decisions over dashboards.**
 
+
+## At a glance
+
+| | |
+| --- | --- |
+| **Vision** | Turn ambiguous business problems into Data & AI platform strategies and measurable decision systems. |
+| **Architecture** | AI-ready data, context layers, ML/LLM systems, agents, governance and multicloud platforms. |
+| **Execution** | Specification-driven development, implementation, integration, deployment, observability and continuous improvement. |
+| **Leadership** | Connect executives, product, domain experts, data and engineering around one system and one outcome. |
+
+**Core operating range:** strategy → product → architecture → engineering → deployment → governance → business outcome.
+
+---
+
+
 ## Executive vision + technical depth
 
 I am a **systems engineer by foundation** operating across the full Data & AI lifecycle: from ambiguous business problem and technology strategy to architecture, implementation, deployment, governance and measurable outcomes.
