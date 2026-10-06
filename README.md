@@ -2,7 +2,9 @@
 
 # Carlos Saritama
 
-## Data & AI Technology Leader | Enterprise AI Systems Architect | AI-Ready Platforms | Agentic AI | Multicloud
+## Data & AI Technology Leader | Enterprise AI Systems Architect
+
+**Data & AI Technology Leadership · AI-Ready Enterprise Platforms · Agentic AI · Decision Intelligence · Multicloud Architecture**
 
 **Strategy · Product · Data · AI · Architecture · Engineering · Governance · Cloud**
 
@@ -24,7 +26,7 @@
 | **Execution** | Specification-driven development, implementation, integration, deployment, observability and continuous improvement. |
 | **Leadership** | Connect executives, product, domain experts, data and engineering around one system and one outcome. |
 
-**Core operating range:** strategy → product → architecture → engineering → deployment → governance → business outcome.
+**Core operating range:** vision & strategy → product → solution / data / AI architecture → engineering → implementation → deployment → governance → business outcome.
 
 ---
 
