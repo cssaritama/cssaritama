@@ -12,8 +12,8 @@ To maintain context hygiene and prevent hallucination, agents MUST observe the f
 
 | Action | Permitted Boundaries | Forbidden Boundaries |
 | :--- | :--- | :--- |
-| **Where to Read on Startup** (Max 4 files) | 1. `AGENTS.md` (this file)<br>2. `README.md`<br>3. `portfolio-ops/MASTER_BACKLOG.md`<br>4. `portfolio-ops/AGENTS.md` | Do **NOT** scan non-essential personal documents upfront. |
-| **Where to Write** | `README.md`, profile assets, documentation | Do **NOT** write operational logs or cross-portfolio items locally; route portfolio-wide tasks to `portfolio-ops/MASTER_BACKLOG.md`. |
+| **Where to Read on Startup** (Max 4 files) | 1. `AGENTS.md` (this file)<br>2. `README.md`<br>3. `systems-studio-portfolio-ops/MASTER_BACKLOG.md`<br>4. `systems-studio-portfolio-ops/AGENTS.md` | Do **NOT** scan non-essential personal documents upfront. |
+| **Where to Write** | `README.md`, profile assets, documentation | Do **NOT** write operational logs or cross-portfolio items locally; route portfolio-wide tasks to `systems-studio-portfolio-ops/MASTER_BACKLOG.md`. |
 | **Where NOT to Read** | Active source code and configuration files | Strictly NEVER inspect or parse files in `archive/` or `past_version/`. |
 
 ---
@@ -48,7 +48,7 @@ Every agent turn operating on non-trivial profile updates or portfolio positioni
 
 ## 4. Systems Studio Universal Rules (#10–#13)
 
-- **Rule #10 (Backlog Auto-Registration):** Any new cross-portfolio feature, risk, or bug discovered must be formally logged in `portfolio-ops/MASTER_BACKLOG.md`.
+- **Rule #10 (Backlog Auto-Registration):** Any new cross-portfolio feature, risk, or bug discovered must be formally logged in `systems-studio-portfolio-ops/MASTER_BACKLOG.md`.
 - **Rule #11 (CI Workflow Parity):** Profile verification scripts must match continuous integration pipelines exactly.
 - **Rule #12 (Dimensional Invariance, Anti-Tautology & Statistical Rigor):** Executive metrics, production system numbers, and benchmark statistics must represent genuine empirical outcomes. Never fabricate commercial outcomes or benchmark gains.
 - **Rule #13 (Automated Code-Rule Checker & Root Isolation):** Repository structure must maintain strict boundaries excluding `archive/` and `past_version/`.
