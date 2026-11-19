@@ -12,7 +12,7 @@ To maintain context hygiene and prevent hallucination, agents MUST observe the f
 
 | Action | Permitted Boundaries | Forbidden Boundaries |
 | :--- | :--- | :--- |
-| **Where to Read on Startup** (Max 4 files) | 1. `AGENTS.md` (this file)<br>2. `README.md`<br>3. `systems-studio-portfolio-ops/MASTER_BACKLOG.md`<br>4. `systems-studio-portfolio-ops/AGENTS.md` | Do **NOT** scan non-essential personal documents upfront. |
+| **Where to Start Reading**<br>*(Then follow links as the task requires)* | 1. `AGENTS.md` (this file)<br>2. `README.md` | Start with these files, then follow links until scope, permissions and acceptance are clear. Read history, archives, large logs or other repositories only when the task needs that evidence. Open `systems-studio-portfolio-ops` only for portfolio-wide tasks. |
 | **Where to Write** | `README.md`, profile assets, documentation | Do **NOT** write operational logs or cross-portfolio items locally; route portfolio-wide tasks to `systems-studio-portfolio-ops/MASTER_BACKLOG.md`. |
 | **Where NOT to Read** | Active source code and configuration files | Strictly NEVER inspect or parse files in `archive/` or `past_version/`. |
 
